@@ -15,3 +15,9 @@ To Me, Myself & I 😊
 
 Also 
 <a href="https://www.flaticon.com/free-icons/student" title="student icons">Student icons created by Freepik - Flaticon</a> For The Site Icon
+
+# Links
+
+Repo Link: https://github.com/CodeCourtAce/ReactPortfolio.git
+
+Netlify Link: https://ggcodes.netlify.app
