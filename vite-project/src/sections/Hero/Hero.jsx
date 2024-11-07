@@ -8,7 +8,7 @@ import githubLight from '../../assets/github-light.svg';
 import githubDark from '../../assets/github-dark.svg';
 import linkedinLight from '../../assets/linkedin-light.svg';
 import linkedinDark from '../../assets/linkedin-dark.svg';
-import CV from '../../assets/CV.pdf';
+import CV from '../../assets/CV.png';
 import { useTheme } from '../../common/ThemeContext';
 
 function Hero() {
@@ -55,7 +55,10 @@ function Hero() {
             </span>
             {/* will change the text later to look better just using lorem ipsum for the time being*/}
             <p className={styles.description}>
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Rerum distinctio facere neque nostrum consequatur quas perferendis sapiente ea quasi molestias quaerat fugit dolor, esse minus quod consectetur nemo delectus magni? 
+            As a dedicated software engineer with a passion for innovative problem-solving, I specialize in developing robust and scalable applications.
+
+With expertise in languages such as Python, React, and JavaScript.
+
             </p>
             <a href={CV} download>
                 <button className="hover">Resume</button>
